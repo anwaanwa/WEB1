@@ -4,7 +4,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <h1>Web</h1>
+    <h1><a href="1.html" target="_blank">Web</a></h1>
     <ol>
       <li>list</li>
       <li>recommendation</li>
