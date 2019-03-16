@@ -6,6 +6,9 @@
     #main_web{
       text-align: center;
     }
+    .main_text{
+      text-align: center;
+    }
 
 
     </style>
@@ -17,7 +20,7 @@
       <li>recommendation</li>
       <li>Q&A</li>
     </ol>
-    <h2>W-E-B</h2>
-    <p>This <a href="https://anwaanwa.github.io/stock-web1/" target="_blank">site</a> that nothing is on the backboard will be most popualr site.</p>
+    <h2 class="main_text">W-E-B</h2>
+    <p class="main_text">This <a href="https://anwaanwa.github.io/stock-web1/" target="_blank">site</a> that nothing is on the backboard will be most popualr site.</p>
   </body>
 </html>
