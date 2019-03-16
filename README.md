@@ -2,9 +2,16 @@
   <head>
     <title>Jang's - WEB</title>
     <meta charset="utf-8">
+    <style>
+    #main_web{
+      text-align: center;
+    }
+
+
+    </style>
   </head>
   <body>
-    <h1><a href="1.html" target="_blank">Web</a></h1>
+    <h1 id="main_web"><a href="1.html">Web</a></h1>
     <ol>
       <li>list</li>
       <li>recommendation</li>
