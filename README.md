@@ -14,7 +14,7 @@
       border-right: 1px solid gray;
       width:130px;
       margin:0;
-      padding: 40px;
+      padding: 10px;
     }
     body{
       margin:0;
@@ -27,7 +27,7 @@
      padding-left:33px;
    }
    #grid #article{
-     padding-left:70px;
+     padding-left:50px;
    }
     </style>
   </head>
