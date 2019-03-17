@@ -42,7 +42,7 @@
     <ol>
       <li><a href="manu_list.html">list</a></li>
       <li><a href="manu_recommadation.html">recommadation</a></li>
-      <li><a href="manu_option.html">option</a></li>
+      <li><a href="manu_option.html">Q&A</a></li>
     </ol>
     <div id="article">
         <h2>WEB</h2>
