@@ -40,7 +40,7 @@
   <div id="grid">
     <ol>
       <li><a href="manu_list.html">list</a></li>
-      <li><a href="manu_recommandation.html">recommadation</a></li>
+      <li><a href="manu_recommendation.html">recommadation</a></li>
       <li><a href="manu_question.html">Q&A</a></li>
     </ol>
     <div id="article">
